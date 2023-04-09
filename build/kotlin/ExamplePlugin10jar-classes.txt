@@ -1,0 +1,1 @@
+/home/itskimlot/workspace/Plugins/ExamplePlugin/build/classes/kotlin/main/io/github/itsk1mlot/example/Main$Companion.class:/home/itskimlot/workspace/Plugins/ExamplePlugin/build/classes/kotlin/main/io/github/itsk1mlot/example/Main.class
